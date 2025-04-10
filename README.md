@@ -16,15 +16,19 @@ It’s ideal for gaining insights into personal or group chats, observing mood t
 ## 🔍 Key Features
 ✅ **Sentiment Detection**  
 Classifies each message into Positive, Negative, or Neutral using VADER sentiment analyzer.
+
 ✅ **Chat Parsing**  
 Reads exported `.txt` files and cleans messages for processing.
+
 ✅ **URL Extraction**  
 Identifies all shared URLs and ranks the most frequently used ones.
+
 ✅ **Visualizations**  
 Generates clean graphs using Seaborn & Matplotlib for:
 - Sentiment distribution
 - Timeline trends (optional)
 - Link usage statistics
+
 ✅ **Simple & Clean Output**  
 Readable summaries and visual files saved to a folder for review.
 
